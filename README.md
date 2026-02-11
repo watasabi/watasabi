@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./image/background.png" width="60%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
-</div>
-
 <br />
 
 <h1 align="center">Hello, I'm Rodrigo Watanabe Pisaia 👋</h1>
