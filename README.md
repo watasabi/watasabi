@@ -1,5 +1,5 @@
-_<div align="center">
-  <img src="./image/background.png" width="100%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
+<div align="center">
+  <img src="./image/background.png" width="60%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
 </div>
 
 <br />
