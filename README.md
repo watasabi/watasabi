@@ -1,5 +1,15 @@
+_<div align="center">
+  <img src="./assets/1769138032047-ec814447-4129-4957-816d-9e5fb131bcbc-2l3kwb.webp" width="100%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
+</div>
+
+<br />
+
 <h1 align="center">Hello, I'm Rodrigo Watanabe Pisaia 👋</h1>
-<h3 align="center">Data Scientist | Computer Vision Specialist | MLOps Enthusiast</h3>
+<h3 align="center">Data Scientist | Computer Vision Specialist | Forecasting Specialist</h3>
+
+<p align="center">
+  <b>Bridging the gap between Control Engineering, Signal Processing, and Advanced Machine Learning.</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-watanabe-pisaia/">
@@ -10,68 +20,59 @@
   </a>
 </p>
 
-<p align="center">
-  <i>"Transforming data into decisions through Deep Learning, Robust Engineering, and a bit of creativity."</i>
-</p>
-
 ---
-
-### 👨‍💻 About Me
-
-I am a **Data Scientist** with over 3 years of experience, bridging the gap between Academic Research (Control Engineering) and Enterprise Solutions. Currently, I work at **Idwall**, focusing on making the digital world safer through **Biometric Fraud Prevention** and **Computer Vision**.
-
-* 🔭 **I’m currently working on:** Multitask Deep Learning models for Anti-Spoofing (PAD) & Behavioral Analytics to balance FAR/FRR.
-* 🌱 **I’m currently learning:** Advanced MLOps patterns and scalable API deployment.
-* ⚙️ **My daily driver:** VS Code on Ubuntu (or Mac with Linux keybindings!).
-* ⚡ **Fun fact:** When I'm not training models, I'm likely building **IoT projects** (Arduino + Node-RED + FastAPI), cooking Japanese food (Korokke expert 🍘), or exploring open worlds in *The Witcher 3*.
-
----
-
 ### 🛠️ Tech Stack
 
-**Languages & Core:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+<div align="left">
 
-**AI, Machine Learning & Data:**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Cloud, DevOps & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-</p>
+**Data Science & Signal Processing**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
----
+**Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-### 💼 Professional Highlights
+~/ 👨‍💻 About Me
 
-* **Idwall:** Developing Deep Learning models to detect hyper-realistic masks and video injections.
-* **BRF:** Created Spatio-Temporal Forecasting using Graph Neural Networks (SGNNs) for demand prediction in Turkey.
-* **MLOps:** Implemented end-to-end pipelines using Azure ML & MLFlow to automate training and deployment.
+I am a **Data Scientist** with a strong background in **Control and Automation Engineering**. My approach to Data Science is deeply rooted in mathematical robustness—applying concepts from Signal Processing and System Identification to solve modern AI problems.
+
+* 🧠 **Core Interest:** Applying **Frequency Domain Analysis** (Fourier/Wavelets) to Time Series and Computer Vision.
+* 🌱 **Currently exploring:** Advanced Spectral Graph Neural Networks (SGNNs) & Multitask Learning architectures.
+* ⚡ **Offline:** Building **IoT projects** (Arduino + Node-RED), exploring Linux distros, and cooking Japanese cuisine.
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Technical Expertise & Approaches
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watasabi&show_icons=true&theme=radical&hide_border=true" alt="Rodrigo's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watasabi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+Instead of just fitting models, I focus on understanding the underlying dynamics of data using advanced mathematical frameworks:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=watasabi&theme=radical&hide_border=true" alt="Streak" />
-</p>
+#### 📈 Advanced Forecasting & Signal Processing
+My strongest domain. I treat Time Series not just as data points, but as signals composed of frequencies and trends.
+* **Techniques:** Wavelet Transforms, Fast Fourier Transform (FFT) for feature extraction, Seasonal-Trend Decomposition (STL).
+* **Approaches:** System Identification, Multivariate Time Series analysis, and Hybrid Models (Statistical + Deep Learning).
+* **Control Systems:** Applying PID concepts and State-Space models to dynamic forecasting problems.
+
+#### 👁️ Computer Vision & Security
+Developing robust visual systems with a focus on security and reliability.
+* **Focus:** Biometric Anti-Spoofing (PAD), Liveness Detection, and Behavioral Analytics.
+* **Architectures:** Multitask Learning (MTL) to balance False Acceptance/Rejection Rates (FAR/FRR) and Vision Transformers.
+
+#### ⚙️ MLOps & Engineering
+* **Pipeline:** End-to-end model lifecycle management using **Azure ML** and **Databricks**.
+* **Deployment:** Scalable API serving (FastAPI) and containerization (Docker).
+<div align="center">
+  <img src="_
