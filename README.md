@@ -1,5 +1,5 @@
 _<div align="center">
-  <img src="./assets/1769138032047-ec814447-4129-4957-816d-9e5fb131bcbc-2l3kwb.webp" width="100%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
+  <img src="./image/background.png" width="100%" style="border-radius: 10px;" alt="Neural Network Abstract Banner" />
 </div>
 
 <br />
