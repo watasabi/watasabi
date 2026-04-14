@@ -1,6 +1,6 @@
 <br />
 
-<h1 align="center">Hello, I'm Rodrigo Watanabe Pisaia 👋</h1>
+<h1 align="center">Hello, I'm Rodrigo Watanabe Pisaia</h1>
 <h3 align="center">Data Scientist | Computer Vision Specialist | Forecasting Specialist</h3>
 
 <p align="center">
